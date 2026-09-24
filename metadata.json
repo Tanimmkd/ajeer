@@ -1,0 +1,6 @@
+{
+  "name": "منصة أجير - التحقق من صحة تصاريح وإشعارات أجير",
+  "description": "المنصة الوطنية لخدمات العمل المؤقت وإعارة العمالة بالمملكة العربية السعودية والتحقق المباشر من موثوقية التصاريح والإشعارات المعتمدة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
