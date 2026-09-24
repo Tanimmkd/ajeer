@@ -133,7 +133,7 @@ export const VerificationSection: React.FC<VerificationSectionProps> = ({
 
               {/* Logo & Document Title (Right visual in RTL) */}
               <div className="text-right">
-                <AjeerLogo size="sm" />
+                <AjeerLogo size="sm" layout="horizontal" />
                 <div className="text-xs font-semibold text-slate-600 dark:text-slate-300 mt-1">
                   إشعار العمل المؤقت المعتمد • وزارة الموارد البشرية والتنمية الاجتماعية
                 </div>
